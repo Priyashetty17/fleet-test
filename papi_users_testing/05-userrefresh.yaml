@@ -1,0 +1,6 @@
+apiVersion: ext.cattle.io/v1
+kind: GroupMembershipRefreshRequest
+metadata:
+  name: refresh-user1
+spec:
+  userId: "testuser1"

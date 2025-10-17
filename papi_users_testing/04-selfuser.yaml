@@ -1,0 +1,4 @@
+apiVersion: ext.cattle.io/v1
+kind: SelfUser
+metadata:
+  name: self-user-example
